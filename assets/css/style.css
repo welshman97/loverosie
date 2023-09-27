@@ -94,7 +94,7 @@ header {
     background: url("../images/rosie.png");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: fit;
     min-height: 360px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
